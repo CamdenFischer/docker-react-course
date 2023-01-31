@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          What the fuck is up Kyle!?
+          feature branch
         </a>
       </header>
     </div>
